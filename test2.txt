@@ -1,2 +1,5 @@
 stdio ddd
+
+
+
 int x dd
